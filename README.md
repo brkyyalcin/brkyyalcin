@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Berkay YALÇIN</h1>
 <h3 align="center">.Net Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Performanz Ar-Ge Ve Yazılım Hizmetleri A.Ş**
+- 🔭 I’m currently working on **Tursys Travel Technologies**
 
 - 🌱 I’m currently learning **React**
 
