@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Berkay YALÇIN</h1>
-<h3 align="center">.Net Full Stack Developer</h3>
+<h3 align="center">Front-End Web Developer</h3>
 
 - 🔭 I’m currently working on **Tursys Travel Technologies**
 
