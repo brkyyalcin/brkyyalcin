@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Kartega Yazılım ve Danışmanlık A.Ş.**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **brky.yalcin@hotmail.com**
 
